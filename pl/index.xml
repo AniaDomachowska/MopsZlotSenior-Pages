@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://zlot.mopsgdynia.pl/pl/</link>
+    <link>https://aniadomachowska.github.io/pl/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Tue, 21 Jun 2016 00:16:06 +0200</lastBuildDate>
     
-	<atom:link href="http://zlot.mopsgdynia.pl/pl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aniadomachowska.github.io/pl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Strona główna</title>
-      <link>http://zlot.mopsgdynia.pl/</link>
+      <link>https://aniadomachowska.github.io/</link>
       <pubDate>Tue, 21 Jun 2016 00:16:06 +0200</pubDate>
       
-      <guid>http://zlot.mopsgdynia.pl/</guid>
+      <guid>https://aniadomachowska.github.io/</guid>
       <description>main pl</description>
     </item>
     
     <item>
       <title>Formularz</title>
-      <link>http://zlot.mopsgdynia.pl/formularz/</link>
+      <link>https://aniadomachowska.github.io/formularz/</link>
       <pubDate>Tue, 21 Jun 2016 00:24:55 +0200</pubDate>
       
-      <guid>http://zlot.mopsgdynia.pl/formularz/</guid>
+      <guid>https://aniadomachowska.github.io/formularz/</guid>
       <description>formularz pl</description>
     </item>
     
     <item>
       <title>Program</title>
-      <link>http://zlot.mopsgdynia.pl/program/</link>
+      <link>https://aniadomachowska.github.io/program/</link>
       <pubDate>Tue, 21 Jun 2016 01:22:51 +0200</pubDate>
       
-      <guid>http://zlot.mopsgdynia.pl/program/</guid>
+      <guid>https://aniadomachowska.github.io/program/</guid>
       <description>program pl</description>
     </item>
     
     <item>
       <title>Warsztaty</title>
-      <link>http://zlot.mopsgdynia.pl/warsztaty/</link>
+      <link>https://aniadomachowska.github.io/warsztaty/</link>
       <pubDate>Tue, 21 Jun 2016 01:23:14 +0200</pubDate>
       
-      <guid>http://zlot.mopsgdynia.pl/warsztaty/</guid>
+      <guid>https://aniadomachowska.github.io/warsztaty/</guid>
       <description>warsztaty pl</description>
     </item>
     
     <item>
       <title>Prelegenci</title>
-      <link>http://zlot.mopsgdynia.pl/prelegenci/</link>
+      <link>https://aniadomachowska.github.io/prelegenci/</link>
       <pubDate>Tue, 21 Jun 2016 01:23:39 +0200</pubDate>
       
-      <guid>http://zlot.mopsgdynia.pl/prelegenci/</guid>
+      <guid>https://aniadomachowska.github.io/prelegenci/</guid>
       <description>prelegenci pl</description>
     </item>
     
     <item>
       <title>Miejsce</title>
-      <link>http://zlot.mopsgdynia.pl/en/informacje/</link>
+      <link>https://aniadomachowska.github.io/en/informacje/</link>
       <pubDate>Tue, 21 Jun 2016 01:23:54 +0200</pubDate>
       
-      <guid>http://zlot.mopsgdynia.pl/en/informacje/</guid>
+      <guid>https://aniadomachowska.github.io/en/informacje/</guid>
       <description>informacje pl</description>
     </item>
     
     <item>
       <title>Integracja</title>
-      <link>http://zlot.mopsgdynia.pl/integracja/</link>
+      <link>https://aniadomachowska.github.io/integracja/</link>
       <pubDate>Tue, 21 Jun 2016 01:25:04 +0200</pubDate>
       
-      <guid>http://zlot.mopsgdynia.pl/integracja/</guid>
+      <guid>https://aniadomachowska.github.io/integracja/</guid>
       <description>integracja pl</description>
     </item>
     
     <item>
       <title>Noclegi</title>
-      <link>http://zlot.mopsgdynia.pl/noclegi/</link>
+      <link>https://aniadomachowska.github.io/noclegi/</link>
       <pubDate>Tue, 21 Jun 2016 00:24:55 +0200</pubDate>
       
-      <guid>http://zlot.mopsgdynia.pl/noclegi/</guid>
+      <guid>https://aniadomachowska.github.io/noclegi/</guid>
       <description>noclegi pl</description>
     </item>
     
     <item>
       <title>Komunikacja</title>
-      <link>http://zlot.mopsgdynia.pl/komunikacja/</link>
+      <link>https://aniadomachowska.github.io/komunikacja/</link>
       <pubDate>Tue, 21 Jun 2016 00:24:55 +0200</pubDate>
       
-      <guid>http://zlot.mopsgdynia.pl/komunikacja/</guid>
+      <guid>https://aniadomachowska.github.io/komunikacja/</guid>
       <description>komunikacja pl</description>
     </item>
     
