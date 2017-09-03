@@ -70,8 +70,17 @@ body {
   margin: 0 5%;
 }
 
-.header-container {
+.header-container-pl {
   background: url('../images/page_header.png') top left no-repeat;
+  background-size: cover;
+  background-color: #B6CBC4;
+  height: 170px;
+  width: 1100px;
+  margin: auto;
+}
+
+.header-container-en {
+  background: url('../images/page_header_en.png') top left no-repeat;
   background-size: cover;
   background-color: #B6CBC4;
   height: 170px;
@@ -290,7 +299,6 @@ nav a:hover {
 }
 
 .footer-container footer {
-//  background: url("../images/footer.png") no-repeat left;
   background-size: cover;
   height: 65px;
   width: 690px;
