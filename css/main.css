@@ -290,7 +290,7 @@ nav a:hover {
 }
 
 .footer-container footer {
-  background: url("../images/footer.png") no-repeat left;
+//  background: url("../images/footer.png") no-repeat left;
   background-size: cover;
   height: 65px;
   width: 690px;
