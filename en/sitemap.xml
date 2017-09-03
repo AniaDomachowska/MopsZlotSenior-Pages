@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/</loc>
+    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/home/</loc>
     <lastmod>2016-06-21T00:16:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -13,7 +13,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/"
+                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/home/"
                 />
   </url>
   
@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/formularz/</loc>
+    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/form/</loc>
     <lastmod>2016-06-21T00:24:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -43,12 +43,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/formularz/"
+                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/form/"
                 />
   </url>
   
   <url>
-    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/warsztaty/</loc>
+    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/workshops/</loc>
     <lastmod>2016-06-21T01:23:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -58,12 +58,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/warsztaty/"
+                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/workshops/"
                 />
   </url>
   
   <url>
-    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/prelegenci/</loc>
+    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/speakers/</loc>
     <lastmod>2016-06-21T01:23:39+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -73,12 +73,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/prelegenci/"
+                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/speakers/"
                 />
   </url>
   
   <url>
-    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/informacje/</loc>
+    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/information/</loc>
     <lastmod>2016-06-21T01:23:54+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -88,12 +88,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/informacje/"
+                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/information/"
                 />
   </url>
   
   <url>
-    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/integracja/</loc>
+    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/integration/</loc>
     <lastmod>2016-06-21T01:25:04+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -103,12 +103,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/integracja/"
+                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/integration/"
                 />
   </url>
   
   <url>
-    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/noclegi/</loc>
+    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/accommodation/</loc>
     <lastmod>2016-06-21T00:24:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -118,12 +118,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/noclegi/"
+                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/accommodation/"
                 />
   </url>
   
   <url>
-    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/komunikacja/</loc>
+    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/communication/</loc>
     <lastmod>2016-06-21T00:24:55+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -133,7 +133,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/komunikacja/"
+                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/communication/"
                 />
   </url>
   

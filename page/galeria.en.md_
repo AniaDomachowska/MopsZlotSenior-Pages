@@ -5,8 +5,7 @@ title = "Galeria"
 weight = 10
 parent = ""
 menufile = "galeria.png"
-url = "en/galeria"
+url = "en/gallery"
 +++
 
 galeria en
-

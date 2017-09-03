@@ -45,7 +45,7 @@
 
       var $languages = $('ul.languages'),
         $languagesli = $languages.children('li');
-
+      $languages.hide();
       $languagesli.sort(function(a, b) {
         var an = a.getAttribute('index'),
           bn = b.getAttribute('index');
@@ -55,6 +55,7 @@
 
       var languagesHtml = $languagesli.html();
       $languages.empty().append($languagesli);
+      $languages.show();
     });
   </script>
 </head>
@@ -66,11 +67,13 @@
   <div class="header-container">
 
     
-    <ul class="languages" style="position:relative; left:805px; top:45px; list-style-type: none;" width="60">
-      <li style="display:inline" index="en"><img width="15" src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/en_click.png" />&nbsp;&nbsp;</li>
+    <ul class="languages" style="display:none;position:relative; left:800px; top:42px; list-style-type: none;" width="60">
+      <li style="display:inline" index="en">
+        <img width="20" src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/en_click.png" /></li>
       
       <li style="display:inline;text-decoration:none" index="pl">
-        <a style="text-decoration:none" href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/program/"><img width="15" src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/pl.png"/>&nbsp;&nbsp;</a>
+        <a style="text-decoration:none" href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/program/">
+          <img width="20" src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/pl.png"/></a>
       </li>
       
     </ul>
@@ -98,7 +101,7 @@
     
     
     
-      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/">
+      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/home/">
             
 									<img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/strona%20glowna.png" />
             
@@ -126,7 +129,7 @@
     
     
     
-      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/formularz/">
+      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/form/">
             
 									<img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/formularz.png" />
             
@@ -140,7 +143,7 @@
     
     
     
-      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/warsztaty/">
+      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/workshops/">
             
 									<img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/warsztaty.png" />
             
@@ -154,7 +157,7 @@
     
     
     
-      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/prelegenci/">
+      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/speakers/">
             
 									<img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/prelegenci.png" />
             
@@ -173,7 +176,7 @@
       <b class="caret"></b>
       <ul class="dropdown-menu">
         <li>
-          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/informacje/">
+          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/information/">
             
               <img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/miejsce.png" />
             
@@ -181,7 +184,7 @@
         </li>
         
         <li>
-          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/noclegi/">
+          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/accommodation/">
             
               <img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/noclegi.png" />
             
@@ -189,7 +192,7 @@
         </li>
         
         <li>
-          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/komunikacja/">
+          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/communication/">
             
               <img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/komunikacja.png" />
             
@@ -208,7 +211,7 @@
     
     
     
-      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/integracja/">
+      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/integration/">
             
 									<img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/integracja.png" />
             
@@ -231,7 +234,7 @@
     
     
     
-      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/">
+      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/home/">
             
 									<img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/strona%20glowna.png" />
             
@@ -259,7 +262,7 @@
     
     
     
-      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/formularz/">
+      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/form/">
             
 									<img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/formularz.png" />
             
@@ -273,7 +276,7 @@
     
     
     
-      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/warsztaty/">
+      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/workshops/">
             
 									<img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/warsztaty.png" />
             
@@ -287,7 +290,7 @@
     
     
     
-      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/prelegenci/">
+      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/speakers/">
             
 									<img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/prelegenci.png" />
             
@@ -306,7 +309,7 @@
       <b class="caret"></b>
       <ul class="dropdown-menu">
         <li>
-          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/informacje/">
+          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/information/">
             
               <img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/miejsce.png" />
             
@@ -314,7 +317,7 @@
         </li>
         
         <li>
-          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/noclegi/">
+          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/accommodation/">
             
               <img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/noclegi.png" />
             
@@ -322,7 +325,7 @@
         </li>
         
         <li>
-          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/komunikacja/">
+          <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/communication/">
             
               <img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/komunikacja.png" />
             
@@ -341,7 +344,7 @@
     
     
     
-      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/integracja/">
+      <a href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/integration/">
             
 									<img src="https://aniadomachowska.github.io/MopsZlotSenior-Pages//images/integracja.png" />
             
@@ -370,7 +373,67 @@
 </div>
 
 
+<script type="text/javascript">
+  <!--
 
+    if (document.images) {
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/strona glowna sel.png";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/program sel.png";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/formularz sel.png";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/warsztaty sel.png";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/prelegenci sel.png";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/informacje sel.png";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/integracja sel.png";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/noclegi sel.png";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/komunikacja sel.png";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/";
+      
+        img1 = new Image();
+
+        img1.src = "https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//images/";
+      
+    }
+
+  
+</script>
 
 <script>
   window.jQuery || document.write('<script src="https:\/\/aniadomachowska.github.io\/MopsZlotSenior-Pages\//js/vendor/jquery-1.11.2.min.js"><\/script>')
@@ -425,7 +488,6 @@
       }
     );
   });
-</script>
 </script>
 </body>
 
