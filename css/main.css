@@ -118,8 +118,8 @@ nav > ul {
 }
 
 
-nav img {
-  height: 16px;
+.menuTop img {
+  height: 12px;
 }
 
 .dropdown-menu li>a:hover, .dropdown-menu li>a:focus, .dropdown-submenu:hover>a {
