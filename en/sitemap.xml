@@ -63,21 +63,6 @@
   </url>
   
   <url>
-    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/speakers/</loc>
-    <lastmod>2016-06-21T01:23:39+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/prelegenci/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/speakers/"
-                />
-  </url>
-  
-  <url>
     <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/information/</loc>
     <lastmod>2016-06-21T01:23:54+02:00</lastmod>
     <xhtml:link
@@ -104,6 +89,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/integration/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/gallery/</loc>
+    <lastmod>2016-06-21T01:22:51+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/galeria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/gallery/"
                 />
   </url>
   
