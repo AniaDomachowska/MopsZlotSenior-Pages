@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://aniadomachowska.github.io/MopsZlotSenior-Pages/</link>
+    <link>http://dialog.mopsgdynia.pl/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Tue, 21 Jun 2016 00:16:06 +0200</lastBuildDate>
     
-	<atom:link href="https://aniadomachowska.github.io/MopsZlotSenior-Pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://dialog.mopsgdynia.pl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Main page</title>
-      <link>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/home/</link>
+      <link>http://dialog.mopsgdynia.pl/en/home/</link>
       <pubDate>Tue, 21 Jun 2016 00:16:06 +0200</pubDate>
       
-      <guid>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/home/</guid>
+      <guid>http://dialog.mopsgdynia.pl/en/home/</guid>
       <description>main en</description>
     </item>
     
     <item>
       <title>Program</title>
-      <link>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/program/</link>
+      <link>http://dialog.mopsgdynia.pl/en/program/</link>
       <pubDate>Tue, 21 Jun 2016 01:22:51 +0200</pubDate>
       
-      <guid>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/program/</guid>
+      <guid>http://dialog.mopsgdynia.pl/en/program/</guid>
       <description>program en</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/form/</link>
+      <link>http://dialog.mopsgdynia.pl/en/form/</link>
       <pubDate>Tue, 21 Jun 2016 00:24:55 +0200</pubDate>
       
-      <guid>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/form/</guid>
+      <guid>http://dialog.mopsgdynia.pl/en/form/</guid>
       <description>Ładuję...</description>
     </item>
     
     <item>
       <title>Warsztaty</title>
-      <link>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/workshops/</link>
+      <link>http://dialog.mopsgdynia.pl/en/workshops/</link>
       <pubDate>Tue, 21 Jun 2016 01:23:14 +0200</pubDate>
       
-      <guid>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/workshops/</guid>
+      <guid>http://dialog.mopsgdynia.pl/en/workshops/</guid>
       <description>warsztaty en</description>
     </item>
     
     <item>
       <title>Miejsce</title>
-      <link>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/information/</link>
+      <link>http://dialog.mopsgdynia.pl/en/information/</link>
       <pubDate>Tue, 21 Jun 2016 01:23:54 +0200</pubDate>
       
-      <guid>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/information/</guid>
+      <guid>http://dialog.mopsgdynia.pl/en/information/</guid>
       <description>informacje en</description>
     </item>
     
     <item>
       <title>Integracja</title>
-      <link>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/integration/</link>
+      <link>http://dialog.mopsgdynia.pl/en/integration/</link>
       <pubDate>Tue, 21 Jun 2016 01:25:04 +0200</pubDate>
       
-      <guid>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/integration/</guid>
+      <guid>http://dialog.mopsgdynia.pl/en/integration/</guid>
       <description>integracja en</description>
     </item>
     
     <item>
       <title>Galeria</title>
-      <link>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/gallery/</link>
+      <link>http://dialog.mopsgdynia.pl/en/gallery/</link>
       <pubDate>Tue, 21 Jun 2016 01:22:51 +0200</pubDate>
       
-      <guid>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/gallery/</guid>
+      <guid>http://dialog.mopsgdynia.pl/en/gallery/</guid>
       <description>galeria en</description>
     </item>
     
     <item>
       <title>Noclegi</title>
-      <link>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/accommodation/</link>
+      <link>http://dialog.mopsgdynia.pl/en/accommodation/</link>
       <pubDate>Tue, 21 Jun 2016 00:24:55 +0200</pubDate>
       
-      <guid>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/accommodation/</guid>
+      <guid>http://dialog.mopsgdynia.pl/en/accommodation/</guid>
       <description>noclegi en</description>
     </item>
     
     <item>
       <title>Komunikacja</title>
-      <link>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/communication/</link>
+      <link>http://dialog.mopsgdynia.pl/en/communication/</link>
       <pubDate>Tue, 21 Jun 2016 00:24:55 +0200</pubDate>
       
-      <guid>https://aniadomachowska.github.io/MopsZlotSenior-Pages/en/communication/</guid>
+      <guid>http://dialog.mopsgdynia.pl/en/communication/</guid>
       <description>komunikacja en</description>
     </item>
     
